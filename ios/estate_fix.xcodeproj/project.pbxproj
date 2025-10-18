@@ -9,8 +9,15 @@
 /* Begin PBXBuildFile section */
 		0C80B921A6F3F58F76C31292 /* libPods-estate_fix.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-estate_fix.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		24484CDA800E441EB4C6778B /* Inter-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 174758807FC24829897A7398 /* Inter-Medium.ttf */; };
+		2D90FCC6D0D742FBAD73CDAF /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77C829BE93ED4EC4AA951924 /* Poppins-SemiBold.ttf */; };
+		2EEE4090A3E044D9883CE108 /* Inter-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 25D7D4D81B2A4927B9D8C346 /* Inter-Bold.ttf */; };
+		3A33B276A78C42E48B9498B9 /* Poppins.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 325D76798FB247E49D5B348F /* Poppins.ttf */; };
+		4D7436C2C4F84333B66BF0B1 /* Inter-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77E8B8D8A4A243B0AAECCCEF /* Inter-SemiBold.ttf */; };
+		7535D79270C2F6E456D0C3E6 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		A6FCCBE7F5BE4B45ABFF2752 /* Inter.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 691D09CB33A54B37B22E379A /* Inter.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,10 +25,16 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = estate_fix/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = estate_fix/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = estate_fix/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		174758807FC24829897A7398 /* Inter-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Medium.ttf"; path = "../src/Assets/Text/Inter-Medium.ttf"; sourceTree = "<group>"; };
+		25D7D4D81B2A4927B9D8C346 /* Inter-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-Bold.ttf"; path = "../src/Assets/Text/Inter-Bold.ttf"; sourceTree = "<group>"; };
+		325D76798FB247E49D5B348F /* Poppins.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Poppins.ttf; path = ../src/Assets/Text/Poppins.ttf; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-estate_fix.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-estate_fix.debug.xcconfig"; path = "Target Support Files/Pods-estate_fix/Pods-estate_fix.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-estate_fix.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-estate_fix.release.xcconfig"; path = "Target Support Files/Pods-estate_fix/Pods-estate_fix.release.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-estate_fix.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-estate_fix.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		691D09CB33A54B37B22E379A /* Inter.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = Inter.ttf; path = ../src/Assets/Text/Inter.ttf; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = estate_fix/AppDelegate.swift; sourceTree = "<group>"; };
+		77C829BE93ED4EC4AA951924 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../src/Assets/Text/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		77E8B8D8A4A243B0AAECCCEF /* Inter-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Inter-SemiBold.ttf"; path = "../src/Assets/Text/Inter-SemiBold.ttf"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = estate_fix/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
@@ -74,6 +87,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				BD195262D658433996911820 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -95,6 +109,20 @@
 				5709B34CF0A7D63546082F79 /* Pods-estate_fix.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		BD195262D658433996911820 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				25D7D4D81B2A4927B9D8C346 /* Inter-Bold.ttf */,
+				174758807FC24829897A7398 /* Inter-Medium.ttf */,
+				77E8B8D8A4A243B0AAECCCEF /* Inter-SemiBold.ttf */,
+				691D09CB33A54B37B22E379A /* Inter.ttf */,
+				77C829BE93ED4EC4AA951924 /* Poppins-SemiBold.ttf */,
+				325D76798FB247E49D5B348F /* Poppins.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -159,6 +187,13 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				7535D79270C2F6E456D0C3E6 /* PrivacyInfo.xcprivacy in Resources */,
+				2EEE4090A3E044D9883CE108 /* Inter-Bold.ttf in Resources */,
+				24484CDA800E441EB4C6778B /* Inter-Medium.ttf in Resources */,
+				4D7436C2C4F84333B66BF0B1 /* Inter-SemiBold.ttf in Resources */,
+				A6FCCBE7F5BE4B45ABFF2752 /* Inter.ttf in Resources */,
+				2D90FCC6D0D742FBAD73CDAF /* Poppins-SemiBold.ttf in Resources */,
+				3A33B276A78C42E48B9498B9 /* Poppins.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -374,7 +409,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) DEBUG";
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -439,7 +477,9 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
